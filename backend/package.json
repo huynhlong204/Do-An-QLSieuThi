@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "BackEnd QUAN LY SIEU THI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhlong204/Do-An-QLSieuThi.git"
+  },
+  "author": "Long, Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhlong204/Do-An-QLSieuThi/issues"
+  },
+  "homepage": "https://github.com/huynhlong204/Do-An-QLSieuThi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
